@@ -21,11 +21,11 @@
   list-style: none;
 }
 
-.header__links-list-item{
+.header__links-list-item {
   list-style: circle;
 }
 
-.header__links-list-item_no-bullit{
+.header__links-list-item_no-bullit {
   list-style: none;
 }
 
@@ -34,7 +34,7 @@
   text-underline-offset: 4px; /* Отступ линии подчеркивания */
 }
 
-.header__links-list-item_no-bullit .header__link{
+.header__links-list-item_no-bullit .header__link {
   text-decoration: none;
 }
 
@@ -48,7 +48,7 @@
   text-underline-offset: 5px; 
 }
 
-.header__logo-image{
+.header__logo-image {
   justify-self: center;
   width: 148px;
   height: 105px;
@@ -347,7 +347,7 @@
   font-size: 18px;
 }
 
-.footer__address{
+.footer__address {
   font-style: normal;
   text-underline-offset: 4px;
 }
